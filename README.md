@@ -15,7 +15,10 @@ top: 102
 
 ---
 
+# python批量实现百度网盘链接有效性检测
+
 ## （一）初始数据样式
+
 将百度网盘连接存放到 采用逗号间隔的UTF-8类型csv 文件中，数据存放格式为`资源名  |  链接  |  密码`，如下图所示：
 ![待检测数据（部分）](https://img-blog.csdnimg.cn/20200512173820664.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjY0NjEwMw==,size_16,color_FFFFFF,t_70#pic_center)
 
@@ -168,9 +171,8 @@ GIF 展示如下：
 ![](https://img-blog.csdnimg.cn/20200512182105883.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjY0NjEwMw==,size_16,color_FFFFFF,t_70)
 可以发现，有效性得到检验。
 ## （四）获取程序或源代码方式
-### 4.1 Github
+### 4.1 [Github](https://github.com/GanAH/baiduNetdisk)
+
 ### 4.2 [网盘](https://pan.baidu.com/s/1X5tPbOMWHSSm3EVG8t1BYg )
 
-点击标题进入下载页面，下载密码的获取方式如下：点击
-
-
+点击标题进入下载页面，下载密码的获取方式如下：[点击](https://mp.weixin.qq.com/s?__biz=MzUxNDkyMTQ1Nw==&mid=2247484598&idx=1&sn=42a3ce5d49979ecafefee7af427c0b24&chksm=f9bfc228cec84b3e01e812451b79325270b50d9010742e34664d7de33cdb7de4fc7a7c6fc614&token=5754633&lang=zh_CN#rd)
