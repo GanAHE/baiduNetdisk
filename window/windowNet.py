@@ -356,6 +356,7 @@ class Ui_mainWindow(object):
 
         self.retranslateUi(mainWindow)
         self.tabWidget.setCurrentIndex(0)
+        self.openSourceCertificate()
 
         self.baiduNetdisk = BaiduNetdisk()
         self.baiduNetdisk.infoEmit.connect(self.showInfo)
@@ -709,3 +710,14 @@ class Ui_mainWindow(object):
         for i in range(self.tableWidget_2.rowCount()):
             for k in range(3):
                 self.tableWidget_2.item(i, k).setText("")
+
+    def openSourceCertificate(self):
+        """
+        开源证书
+        :return: None
+        """
+        # 显示到文本区域
+        self.textEdit_review.setText("                      ===========开源证书===========")
+        with open(Database.LicensePath, "r",encoding='UTF-8') as F:
+            for line in F:
+                self.textEdit_review.append(line)

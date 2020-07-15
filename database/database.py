@@ -11,6 +11,7 @@ comment:
 
 class Database():
     onlineHelpLink = "https://www.ganahe.top/"
+    LicensePath = "./source/LICENSE"
     fileDir = "."
     speaker = True
     fileDataList = None
