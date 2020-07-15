@@ -1,8 +1,83 @@
-[task_id:matplotlib.axes._base]-[DEBUG] - 2020-07-15 17:26:23,756-[_base.py-->>line:2515]: update_title_pos
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,814-[PngImagePlugin.py-->>line:146]: STREAM b'IHDR' 16 13
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,815-[PngImagePlugin.py-->>line:146]: STREAM b'sBIT' 41 4
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,815-[PngImagePlugin.py-->>line:592]: b'sBIT' 41 4 (unknown)
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,815-[PngImagePlugin.py-->>line:146]: STREAM b'pHYs' 57 9
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,815-[PngImagePlugin.py-->>line:146]: STREAM b'tEXt' 78 57
-[task_id:PIL.PngImagePlugin]-[DEBUG] - 2020-07-15 17:26:23,816-[PngImagePlugin.py-->>line:146]: STREAM b'IDAT' 147 8192
-[task_id:MTD_ACTION_THREAD]-[INFO] - 2020-07-15 17:29:11,789-[actionPicturesDetectionThread.py-->>line:168]: 子线程已开启....
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:28,856-[baiduNetdisk.py-->>line:95]: <div class="share-error-left">
+<div id="share_nofound_des">
+<div class="error-img">
+<img src="/sns/box-static/disk-share/widget/pageModule/error/img/errorImg_492ea64.png?t=1594179739720"/>
+</div>
+啊哦，你来晚了，分享的文件已经被取消了，下次要早点哟。</div>
+<div class="platform-tips" id="platform-non-found" node-id="web-cancelleddoc" style="margin:0;width:750px;overflow:hidden">
+</div>
+<section class="tail" id="tail">
+</section>
+</div>
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:28,861-[baiduNetdisk.py-->>line:95]: *该链接无效
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:28,862-[baiduNetdisk.py-->>line:95]: 
+ ------------------
+  51.链接检测中...
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:28,863-[baiduNetdisk.py-->>line:95]: urlhttps://pan.baidu.com/s/1ej8clyZkLM2YYUO8hb9TRA
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:29,914-[baiduNetdisk.py-->>line:95]: 该链接有效
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:17:29,915-[baiduNetdisk.py-->>line:95]: 完成所有链接检测,总计检测51个链接，总计有效数为1
+[task_id:ACTION_SPEAKER_THREAD]-[INFO] - 2020-07-15 23:22:11,643-[actionSpeakerThread.py-->>line:37]: 语音播报：欢迎使用网盘链接有效性检测软件，开发者为GanAHE,请关注微信公众号：星辰换日，获取更多分享资源或软件更新，
+注意，本软件开源免费，未经作者允许不得用于商业用途！否则将承担法律责任
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:20,408-[baiduNetdisk.py-->>line:95]: 
+ ------------------
+  1.链接检测中...
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:20,408-[baiduNetdisk.py-->>line:95]: urlhttps://pan.baidu.com/s/1c2nm6rQ
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:21,799-[baiduNetdisk.py-->>line:95]: <div class="share-error-left">
+<div id="share_nofound_des">
+<div class="error-img">
+<img src="/sns/box-static/disk-share/widget/pageModule/error/img/errorImg_492ea64.png?t=1594179739720"/>
+</div>
+啊哦，你来晚了，分享的文件已经被取消了，下次要早点哟。</div>
+<div class="platform-tips" id="platform-non-found" node-id="web-cancelleddoc" style="margin:0;width:750px;overflow:hidden">
+</div>
+<section class="tail" id="tail">
+</section>
+</div>
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:21,804-[baiduNetdisk.py-->>line:95]: *该链接无效
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:21,804-[baiduNetdisk.py-->>line:95]: 
+ ------------------
+  2.链接检测中...
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:21,804-[baiduNetdisk.py-->>line:95]: urlhttps://pan.baidu.com/s/1mh9GCrQ
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:22,704-[baiduNetdisk.py-->>line:95]: <div class="share-error-left">
+<div id="share_nofound_des">
+<div class="error-img">
+<img src="/sns/box-static/disk-share/widget/pageModule/error/img/errorImg_492ea64.png?t=1594179739720"/>
+</div>
+啊哦，你来晚了，分享的文件已经被取消了，下次要早点哟。</div>
+<div class="platform-tips" id="platform-non-found" node-id="web-cancelleddoc" style="margin:0;width:750px;overflow:hidden">
+</div>
+<section class="tail" id="tail">
+</section>
+</div>
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:22,706-[baiduNetdisk.py-->>line:95]: *该链接无效
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:22,706-[baiduNetdisk.py-->>line:95]: 
+ ------------------
+  3.链接检测中...
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:22,706-[baiduNetdisk.py-->>line:95]: urlhttps://pan.baidu.com/s/1boZb0QF
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:23,813-[baiduNetdisk.py-->>line:95]: <div class="share-error-left">
+<div id="share_nofound_des">
+<div class="error-img">
+<img src="/sns/box-static/disk-share/widget/pageModule/error/img/errorImg_492ea64.png?t=1594179739720"/>
+</div>
+啊哦，你来晚了，分享的文件已经被取消了，下次要早点哟。</div>
+<div class="platform-tips" id="platform-non-found" node-id="web-cancelleddoc" style="margin:0;width:750px;overflow:hidden">
+</div>
+<section class="tail" id="tail">
+</section>
+</div>
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:23,815-[baiduNetdisk.py-->>line:95]: *该链接无效
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:23,815-[baiduNetdisk.py-->>line:95]: 
+ ------------------
+  4.链接检测中...
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:23,815-[baiduNetdisk.py-->>line:95]: urlhttps://pan.baidu.com/s/1mi8AQQc
+[task_id:BAIDUNETDISK]-[INFO] - 2020-07-15 23:22:24,705-[baiduNetdisk.py-->>line:95]: <div class="share-error-left">
+<div id="share_nofound_des">
+<div class="error-img">
+<img src="/sns/box-static/disk-share/widget/pageModule/error/img/errorImg_492ea64.png?t=1594179739720"/>
+</div>
+啊哦，你来晚了，分享的文件已经被取消了，下次要早点哟。</div>
+<div class="platform-tips" id="platform-non-found" node-id="web-cancelleddoc" style="margin:0;width:750px;overflow:hidden">
+</div>
+<section class="tail" id="tail">
+</section>
+</div>
